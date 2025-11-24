@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #f3f4f6;
+}
+input, select, button {
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+button {
+  cursor: pointer;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #e5e7eb;
+}
